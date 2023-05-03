@@ -2,6 +2,10 @@
 
 ### Version history
 
+-3.05.2023  v1.0.3
+- Custom filters added.
+- Significal speed improvement in trigonometric calculations.
+
 21.04.2023  v1.0.2.1
 - Transformation corrections added.
 - Text alignment options added.
