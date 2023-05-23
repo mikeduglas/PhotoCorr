@@ -2,7 +2,11 @@
 
 ### Version history
 
--3.05.2023  v1.0.3
+23.05.2023 v1.0.4
+- Checkboxes replaced with toggle controls.
+- Some spinboxes replaced with trackbars.
+
+3.05.2023  v1.0.3
 - Custom filters added.
 - Significal speed improvement in trigonometric calculations.
 
