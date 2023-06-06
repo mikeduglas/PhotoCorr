@@ -2,6 +2,10 @@
 
 ### Version history
 
+06.06.2023 v1.1
+- Stretch mode off (aka "Keep ratio") is the default mode.
+- Checkbox to switch stretch mode on and off.
+
 23.05.2023 v1.0.4
 - Checkboxes replaced with toggle controls.
 - Some spinboxes replaced with trackbars.
