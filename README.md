@@ -2,8 +2,9 @@
 
 ### Version history
 
-14.06.2023
+14.06.2023 v1.1.2
 - FIX: selection rectangle in keep ratio mode was corrupted after window resize.
+- FIX: selection rectangle was corrupted after stretch mode on/off.
 
 06.06.2023 v1.1
 - Stretch mode off (aka "Keep ratio") is the default mode.
