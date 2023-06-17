@@ -1,8 +1,11 @@
 # Photo Corrector
 
 ### Version history
+17.06.2023 v1.2
+- NEW: Adjustable selection rectangle.
+
 15.06.2023 v1.1.3
-- CHG: fractional number of degrees is тщц supported for rotation.
+- CHG: Rotate by a fractional number of degrees.
 
 14.06.2023 v1.1.2
 - FIX: selection rectangle in keep ratio mode was corrupted after window resize.
