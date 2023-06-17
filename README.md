@@ -1,5 +1,29 @@
 # Photo Corrector
 
+Starting screen.  
+![Starting screen](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector.gif?raw=true)     
+Select a rectangular area and choose one of available color effects.   
+Blur effect.  
+![Blur effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-blur.gif?raw=true)     
+Sharpen effect.  
+![Sharpen effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-sharpen.gif?raw=true)    
+Hue-Saturation-Lightness effect.   
+![HSL effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-hsl.gif?raw=true)     
+Levels effect.
+![Levels effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-levels.gif?raw=true)     
+Draw a text inside a selection area. Many options are available.  
+![Draw text](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-drawtext.gif?raw=true)     
+Rotate and flip the image.  
+![Rotate and Flip](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-flip.gif?raw=true)     
+Apply uncommon filters like pixelation.  
+![Pixelate](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-pixelate.gif?raw=true)     
+Commit changes and continue.  
+![Commit changes](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-commit.gif?raw=true)    
+Most of features are accessible via context menu.
+![Context menu](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-contextmenu.gif?raw=true)     
+
+
+
 ### Version history
 17.06.2023 v1.2
 - NEW: Adjustable selection rectangle.
