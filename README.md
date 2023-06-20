@@ -11,8 +11,12 @@ Hue-Saturation-Lightness effect.
 ![HSL effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-hsl.gif?raw=true)     
 Levels effect.
 ![Levels effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-levels.gif?raw=true)     
+If the border of the selection area is hard to see, you can invert the color of the border.  
+![Invert selection border color](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-invertselborder.gif?raw=true)     
 Draw a text inside a selection area. Many options are available.  
 ![Draw text](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-drawtext.gif?raw=true)     
+You can select entire image by pressing this button:  
+![Select all](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-selectall.gif?raw=true)     
 Rotate and flip the image.  
 ![Rotate and Flip](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-flip.gif?raw=true)     
 Apply uncommon filters like pixelation.  
