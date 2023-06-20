@@ -25,6 +25,9 @@ Most of features are accessible via context menu.
 
 
 ### Version history
+20.06.2023 v1.2.1
+- FIX: SelectAll button was not reset when another picture was opened.
+
 17.06.2023 v1.2
 - NEW: Adjustable selection rectangle.
 
