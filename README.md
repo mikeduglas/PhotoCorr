@@ -1,30 +1,30 @@
 # Photo Corrector
 
 Starting screen.  
-![Starting screen](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector.gif?raw=true)     
+![Starting screen](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector.jpg?raw=true)     
 Select a rectangular area and choose one of available color effects.   
 Blur effect.  
-![Blur effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-blur.gif?raw=true)     
+![Blur effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-blur.jpg?raw=true)     
 Sharpen effect.  
-![Sharpen effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-sharpen.gif?raw=true)    
+![Sharpen effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-sharpen.jpg?raw=true)    
 Hue-Saturation-Lightness effect.   
-![HSL effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-hsl.gif?raw=true)     
+![HSL effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-hsl.jpg?raw=true)     
 Levels effect.
-![Levels effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-levels.gif?raw=true)     
+![Levels effect](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-levels.jpg?raw=true)     
 If the border of the selection area is hard to see, you can invert the color of the border.  
-![Invert selection border color](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-invertselborder.gif?raw=true)     
+![Invert selection border color](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-invertselborder.jpg?raw=true)     
 Draw a text inside a selection area. Many options are available.  
-![Draw text](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-drawtext.gif?raw=true)     
+![Draw text](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-drawtext.jpg?raw=true)     
 You can select entire image by pressing this button:  
-![Select all](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-selectall.gif?raw=true)     
+![Select all](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-selectall.jpg?raw=true)     
 Rotate and flip the image.  
-![Rotate and Flip](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-flip.gif?raw=true)     
+![Rotate and Flip](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-flip.jpg?raw=true)     
 Apply uncommon filters like pixelation.  
-![Pixelate](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-pixelate.gif?raw=true)     
+![Pixelate](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-pixelate.jpg?raw=true)     
 Commit changes and continue.  
-![Commit changes](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-commit.gif?raw=true)    
+![Commit changes](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-commit.jpg?raw=true)    
 Most of features are accessible via context menu.
-![Context menu](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-contextmenu.gif?raw=true)     
+![Context menu](https://github.com/mikeduglas/PhotoCorr/blob/master/screenshots/PhotoCorrector-contextmenu.jpg?raw=true)     
 
 
 
