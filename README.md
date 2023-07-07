@@ -29,6 +29,9 @@ Most of features are accessible via context menu.
 
 
 ### Version history
+07.07.2023 v1.2.2
+- FIX: Display error message if unable to load image file.
+
 20.06.2023 v1.2.1
 - FIX: SelectAll button was not reset when another picture was opened.
 
