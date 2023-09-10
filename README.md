@@ -29,6 +29,11 @@ Most of features are accessible via context menu.
 
 
 ### Version history
+10.09.2023 v1.3
+- NEW: Scale transformation.
+- NEW: Save selection (Ctrl+Shift+S).
+- TODO: Set selection dialog.
+
 07.07.2023 v1.2.2
 - FIX: Display error message if unable to load image file.
 
