@@ -29,6 +29,9 @@ Most of features are accessible via context menu.
 
 
 ### Version history
+11.09.2023 v1.3.1
+- CHG: Save selection (Ctrl+Shift+S) now saves "transformed" image; for example, if you performed scale transformation to new size 100x100, then Save selection will save 100x100 image.
+ 
 10.09.2023 v1.3
 - NEW: Scale transformation.
 - NEW: Save selection (Ctrl+Shift+S).
