@@ -29,6 +29,9 @@ Most of features are accessible via context menu.
 
 
 ### Version history
+12.09.2023 v1.3.2
+- CHG: Rotate transformation is allowed without restrictions ("Select All" mode is not required).
+
 11.09.2023 v1.3.1
 - CHG: Save selection (Ctrl+Shift+S) now saves "transformed" image; for example, if you performed scale transformation to new size 100x100, then Save selection will save 100x100 image.
  
