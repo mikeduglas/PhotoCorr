@@ -29,6 +29,9 @@ Most of features are accessible via context menu.
 
 
 ### Version history
+13.09.2023 v1.3.3
+- FIX: Scale transformation worked properly only in "Select All" mode.
+
 12.09.2023 v1.3.2
 - CHG: Rotate transformation is allowed without restrictions ("Select All" mode is not required).
 
